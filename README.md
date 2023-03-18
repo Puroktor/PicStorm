@@ -1,6 +1,11 @@
 # PicStorm
 Android-приложение для просмотра и публикации фотографий.
 
+<ul>
+  <li><a href="https://github.com/Puroktor/PicStorm-Backend" target="_blank">Серверная часть</a></li>
+  <li><a href="https://github.com/Yokunnn/PicStorm-Frontend" target="_blank">Клиентская часть</a></li>
+</ul>
+
 ### Команда ТП-6.1-2
 <ul>
   <li><a href="https://vk.com/goosepusher" target="_blank">Кирилл Скофенко</a> - teamlead</li>
