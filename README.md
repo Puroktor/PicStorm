@@ -1,28 +1,21 @@
 # PicStorm
 Android-приложение для просмотра и публикации фотографий.
 
-<ul>
-  <li><a href="https://github.com/Puroktor/PicStorm-Backend" target="_blank">Серверная часть</a></li>
-  <li><a href="https://github.com/Yokunnn/PicStorm-Frontend" target="_blank">Клиентская часть</a></li>
-</ul>
+* [Серверная часть](https://github.com/Puroktor/PicStorm-Backend)
+* [Клиентская часть](https://github.com/Yokunnn/PicStorm-Frontend)
 
 ### Команда ТП-6.1-2
-<ul>
-  <li><a href="https://vk.com/goosepusher" target="_blank">Кирилл Скофенко</a> - teamlead</li>
-  <li><a href="https://vk.com/crinzhulka" target="_blank">Егор Закаблуков</a></li>
-  <li><a href="https://vk.com/eubarkalov" target="_blank">Евгений Баркалов</a></li>
-</ul>
+* [Кирилл Скофенко](https://vk.com/goosepusher) - teamlead
+* [Егор Закаблуков](https://vk.com/crinzhulka)
+* [Евгений Баркалов](https://vk.com/eubarkalov)
 
 ### Использованные сервисы
-<ul>
-  <li>
-    <a href="https://trello.com/b/wCmoJOe9/picstorm-board" target="_blank">Trello</a><span> - таск-менеджер</span>
-    <p><b>Note:</b> Для корректного отображения подзадач желательно (но необязательно) установить плагин SubTasks.<br/>Установка доступна после входа в аккаунт.</p>
-  </li>
-  <li><a href="https://miro.com/app/board/uXjVMe7SI7o=/" target="_blank">Miro</a> - схема функционала</li>
-  <li><a href="https://www.figma.com/file/gzrFreOIXap1I7hpizGJG6/PicStorm" target="_blank">Figma</a> - дизайн интерфейса</li>
-</ul>
+* [Trello](https://trello.com/b/wCmoJOe9/picstorm-board) - таск-менеджер <br/>
+**Note:** Для корректного отображения подзадач желательно (но необязательно) установить плагин SubTasks.<br/>Установка доступна после входа в аккаунт.
+
+* [Miro](https://miro.com/app/board/uXjVMe7SI7o=/) - схема функционала
+* [Figma](https://www.figma.com/file/gzrFreOIXap1I7hpizGJG6/PicStorm) - дизайн интерфейса
 
 ### Документация
-<ul>
-</ul>
+* [Техническое задание](https://github.com/Puroktor/PicStorm/tree/main/docs/Techinacal_Specification.pdf)
+* [Курсовой проект](https://github.com/Puroktor/PicStorm/tree/main/docs/Course_Project.pdf)
