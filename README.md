@@ -17,5 +17,5 @@ Android-приложение для просмотра и публикации �
 * [Figma](https://www.figma.com/file/gzrFreOIXap1I7hpizGJG6/PicStorm) - дизайн интерфейса
 
 ### Документация
-* [Техническое задание](https://github.com/Puroktor/PicStorm/tree/main/docs/Techinacal_Specification.pdf)
+* [Техническое задание](https://github.com/Puroktor/PicStorm/tree/main/docs/Technical_Specification.pdf)
 * [Курсовой проект](https://github.com/Puroktor/PicStorm/tree/main/docs/Course_Project.pdf)
