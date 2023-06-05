@@ -47,7 +47,7 @@ docker compose up
 * [Курсовой проект](https://github.com/Puroktor/PicStorm/tree/main/docs/Course_Project.pdf)
 * [Презентация](https://github.com/Puroktor/PicStorm/blob/main/docs/PicStorm_Slides.pdf)
 ### Видео
-* [Обзор клиентской части]()
+* [Обзор клиентской части](https://www.youtube.com/watch?v=oGlcAwGQy6c)
 * [Обзор серверной части](https://youtu.be/tic_7vvU-pM)
 * [Деплой сервера](https://www.youtube.com/watch?v=axCPy-4EUIQ)
 ### Данные главного администратора
