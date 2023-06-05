@@ -15,6 +15,7 @@ Android-приложение для просмотра и публикации �
 
 * [Miro](https://miro.com/app/board/uXjVMe7SI7o=/) - описание основных сценариев
 * [Figma](https://www.figma.com/file/gzrFreOIXap1I7hpizGJG6/PicStorm) - интерактивный прототип
+* [Swagger](http://158.160.39.62/swagger-ui/index.html) - документация API
 
 ### Документация
 * [Техническое задание](https://github.com/Puroktor/PicStorm/tree/main/docs/Technical_Specification.pdf)
