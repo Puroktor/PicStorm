@@ -1,0 +1,6 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Puroktor/PicStorm-Backend.git
+[submodule "Client"]
+	path = Client
+	url = https://github.com/Yokunnn/PicStorm-Frontend.git
