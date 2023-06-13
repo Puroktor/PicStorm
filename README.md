@@ -22,6 +22,7 @@ Android-приложение для просмотра и публикации �
 * [Техническое задание](https://github.com/Puroktor/PicStorm/tree/main/docs/Technical_Specification.pdf)
 * [Курсовой проект](https://github.com/Puroktor/PicStorm/tree/main/docs/Course_Project.pdf)
 * [Презентация](https://github.com/Puroktor/PicStorm/blob/main/docs/PicStorm_Slides.pdf)
+* [Сопроводительное письмо](https://github.com/Puroktor/PicStorm/blob/main/docs/Covering_Letter.pdf)
 ### Видео
 * [Обзор клиентской части и демонстрация работы](https://www.youtube.com/watch?v=vzzZnbsudBg)
 * [Обзор серверной части](https://youtu.be/tic_7vvU-pM)
