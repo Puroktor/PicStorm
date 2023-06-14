@@ -23,6 +23,7 @@ Android-приложение для просмотра и публикации �
 * [Курсовой проект](https://github.com/Puroktor/PicStorm/tree/main/docs/Course_Project.pdf)
 * [Презентация](https://github.com/Puroktor/PicStorm/blob/main/docs/PicStorm_Slides.pdf)
 * [Сопроводительное письмо](https://github.com/Puroktor/PicStorm/blob/main/docs/Covering_Letter.pdf)
+* [Скриншоты метрик](https://github.com/Puroktor/PicStorm/tree/main/metrics)
 ### Видео
 * [Обзор клиентской части](https://www.youtube.com/watch?v=vzzZnbsudBg)
 * [Обзор серверной части](https://youtu.be/tic_7vvU-pM)
